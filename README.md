@@ -36,4 +36,4 @@ print(me)
 (provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats))
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=iandouglas&show_icons=true&theme=nord&count_private=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iandouglas&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iandouglas&layout=compact" />
