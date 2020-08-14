@@ -28,3 +28,9 @@ print(me)
 - [TechInterview.Guide](https://techinterview.guide); While this isn't an open repo (yet), I've published a large quantity of notes and created a daily 6-week email series around technical interview preparation for newcomers to the tech industry.
 
 - [Make4Covid PPE](https://github.com/make4covidstack/Stack-Experiments); I contributed some 3D printing models and created about 5,000 pieces of produced PPE for the Denver area.
+
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iandouglas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=iandouglas&show_icons=true&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
