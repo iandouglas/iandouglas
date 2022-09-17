@@ -6,9 +6,9 @@ class IanDouglas:
   def __repr__(self):
     return json.dumps({
       'pronouns': ['He', 'Him'],
-      'code': ['Python', 'Ruby', 'Go', 'JavaScript'],
-      'tools': ['Flask', 'Rails', 'Agile', 'Express'],
-      'coaching': ['interview prep', 'data structures'],
+      'code': ['Python', 'Ruby', 'JavaScript', 'Go'],
+      'tools': ['Flask', 'Rails', 'Express', 'Airtable', 'FastAPI'],
+      'coaching': ['interview prep', 'data structures', 'system design'],
       'been_at_it_since': 1996
     })
 me = IanDouglas()
@@ -18,6 +18,7 @@ print(me)
 [![Linkedin: iandouglas736](https://img.shields.io/badge/-iandouglas736-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iandouglas736/)](https://www.linkedin.com/in/iandouglas736/)
 [![GitHub iandouglas](https://img.shields.io/github/followers/iandouglas?label=follow&style=social)](https://github.com/iandouglas )
 
+- want an introduction to someone on my LinkedIn network? [Here's how](https://gist.github.com/iandouglas/ad72a09fe65b4dcbf395f68f2c5eaaeb)
 
 ## Recent/Proudest Contributions to Open Source
   
