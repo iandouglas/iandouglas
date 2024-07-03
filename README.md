@@ -1,13 +1,14 @@
-## Ian Douglas: Family man, Maker, teacher
+## William Ian Douglas: Family man, Maker, teacher
 
 ```python
 import json
 class IanDouglas:
   def __repr__(self):
     return json.dumps({
+      'preferred_name': {'text': 'Ian', 'pronounced': 'EE-in'},
       'pronouns': ['He', 'Him'],
       'code': ['Python', 'Ruby', 'JavaScript', 'Go'],
-      'tools': ['Flask', 'Rails', 'Express', 'Airtable', 'FastAPI'],
+      'tools': ['FastAPI', 'Rails', 'Express', 'Airtable'],
       'coaching': ['interview prep', 'data structures', 'system design'],
       'been_at_it_since': 1996
     })
@@ -19,6 +20,10 @@ print(me)
 [![GitHub iandouglas](https://img.shields.io/github/followers/iandouglas?label=follow&style=social)](https://github.com/iandouglas )
 
 - want an introduction to someone on my LinkedIn network? [Here's how](https://gist.github.com/iandouglas/ad72a09fe65b4dcbf395f68f2c5eaaeb)
+
+## Public speaking, conference talks, etc
+
+- [https://www.iandouglas.llc/public-speaking-portfolio](https://www.iandouglas.llc/public-speaking-portfolio)
 
 ## Recent/Proudest Contributions to Open Source
   
