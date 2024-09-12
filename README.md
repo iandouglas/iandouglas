@@ -23,7 +23,7 @@ print(me)
 
 ## Public speaking, conference talks, etc
 
-- [https://www.iandouglas.llc/public-speaking-portfolio](https://www.iandouglas.llc/public-speaking-portfolio)
+- [https://736.fyi/portfolio](https://736.fyi/portfolio)
 
 ## Recent/Proudest Contributions to Open Source
   
