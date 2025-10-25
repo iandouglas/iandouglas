@@ -23,11 +23,13 @@ print(me)
 
 ## Public speaking, conference talks, etc
 
-- [https://736.fyi/portfolio](https://736.fyi/portfolio)
+- [https://iandouglas736.com](https://iandouglas736.com)
 
 ## Recent/Proudest Contributions to Open Source
-  
-- [Turing School of Software & Design, Backend Curriculum](https://github.com/turingschool/backend-curriculum-site); I contribute regular lesson plans, projects (each of which get their own repos) and iterative updates for learning Ruby, Rails, OOP, CS topics (data structures, algorithms, Big O Notation, etc), and more. [Ruby, Rails, HTML, CSS]
+
+- [goose](https://github.com/block/goose); plenty of contributions from product input, feature feedback, to tutorial and blog content and how-to guides.
+
+- [Turing School of Software & Design, Backend Curriculum](https://github.com/turingschool/backend-curriculum-site); I contributed regular lesson plans, projects (each of which get their own repos) and iterative updates for learning Ruby, Rails, OOP, CS topics (data structures, algorithms, Big O Notation, etc), and more. [Ruby, Rails, HTML, CSS]
 
 - [Turing School of Software & Design, Career Development Curriculum](https://github.com/turingschool/career-development-curriculum-site); I've contributed notes and ideas about technical career development to Turing since the fall of 2014, and assist with teaching topics, helping students with mock interviews, and training others to help with practical interview preparation.
 
